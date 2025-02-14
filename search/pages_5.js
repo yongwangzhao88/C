@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['list_20of_20all_20files_771',['List of all files',['../d5/d88/md__d_i_r_e_c_t_o_r_y.html',1,'']]],
-  ['leetcode_772',['LeetCode',['../df/d58/md_leetcode__r_e_a_d_m_e.html',1,'']]]
+  ['maintainers_0',['Guidelines for reviewers and maintainers',['../d7/d1b/md__r_e_v_i_e_w_e_r___c_o_d_e.html',1,'']]]
 ];

@@ -1,7 +1,17 @@
 var searchData=
 [
-  ['udp_5fclient_2ec_363',['udp_client.c',['../da/de6/udp__client_8c.html',1,'']]],
-  ['udp_5fserver_2ec_364',['udp_server.c',['../d8/dca/udp__server_8c.html',1,'']]],
-  ['union_5ffind_2ec_365',['union_find.c',['../df/df3/union__find_8c.html',1,'']]],
-  ['unit_5fvec_366',['unit_vec',['../de/d7b/group__vec__3d.html#ga3cdfd8378a0b115563ea6c561bb46b7e',1,'vectors_3d.c']]]
+  ['q0_0',['q0',['../de/d58/structquaternion__.html#a37819eb7d76c65c37a9c2a63f01f65b2',1,'quaternion_']]],
+  ['qr_5fdecompose_1',['qr_decompose',['../d4/d68/qr__decompose_8h.html#a45c7640d9d22c89c11beb1f567843c56',1,'qr_decompose.h']]],
+  ['qr_5fdecompose_2eh_2',['qr_decompose.h',['../d4/d68/qr__decompose_8h.html',1,'']]],
+  ['qr_5fdecomposition_2ec_3',['qr_decomposition.c',['../d5/d23/qr__decomposition_8c.html',1,'']]],
+  ['qr_5feigen_5fvalues_2ec_4',['qr_eigen_values.c',['../d7/d50/qr__eigen__values_8c.html',1,'']]],
+  ['quat_5ffrom_5feuler_5',['quat_from_euler',['../dc/d9a/group__quats.html#ga4779f448daaf806ce5e750c13b3e0965',1,'quaternions.c']]],
+  ['quaternion_6',['quaternion',['../dc/d9a/group__quats.html#gaacd70a16b61dd47a19eb5fb729c2669b',1,'geometry_datatypes.h']]],
+  ['quaternion_20operations_7',['Quaternion operations',['../d4/d69/group__dual__quats.html',1,'3D Dual-Quaternion operations'],['../dc/d9a/group__quats.html',1,'3D Quaternion operations']]],
+  ['quaternion_5f_8',['quaternion_',['../de/d58/structquaternion__.html',1,'']]],
+  ['quaternion_5fmultiply_9',['quaternion_multiply',['../dc/d9a/group__quats.html#gaf5ad0f9c4f0facc5a9c3735a178156b1',1,'quaternions.c']]],
+  ['quaternions_10',['Library for 3D Vectors &amp; Quaternions',['../de/d5a/group__quaternions.html',1,'']]],
+  ['quaternions_2ec_11',['quaternions.c',['../df/d98/quaternions_8c.html',1,'']]],
+  ['queue_12',['queue',['../d2/d36/structqueue.html',1,'']]],
+  ['queuerep_13',['QueueRep',['../d0/d10/struct_queue_rep.html',1,'']]]
 ];

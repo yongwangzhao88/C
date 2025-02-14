@@ -1,0 +1,13 @@
+<map id="main" name="main">
+<area shape="rect" id="Node000001" title="Main Function." alt="" coords="5,116,55,142"/>
+<area shape="rect" id="Node000002" href="$dc/dc5/hangman_8c.html#a6f5bb35e025e731286ce890c90286d2e" title="checks if letter is in current word" alt="" coords="113,5,180,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="38,114,64,79,101,40,104,38,107,42,104,44,68,82,42,117"/>
+<area shape="rect" id="Node000003" href="$dc/dc5/hangman_8c.html#ad4130a1d1092d32dcfa4a46019e27d45" title="creates a new game &#45; generates a random word and stores in global variable current_word" alt="" coords="104,79,188,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="54,119,89,107,91,112,56,124"/>
+<area shape="rect" id="Node000004" href="$dc/dc5/hangman_8c.html#a9611b43141ac2e6ba245487c493599fc" title="checks if letter has been guessed before" alt="" coords="103,152,190,178"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="56,134,89,144,88,149,54,139"/>
+<area shape="rect" id="Node000005" href="$dc/dc5/hangman_8c.html#a669e745d87eb1740ab9b1f3b73bb7336" title="checks if player has won or lost" alt="" coords="124,201,169,227"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="47,140,104,188,112,193,109,197,101,192,43,144"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="126,79,122,70,124,61,133,54,146,52,161,55,169,61,165,65,159,60,146,57,135,59,129,64,127,70,131,77"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="126,153,122,143,124,134,133,128,146,125,161,128,169,135,165,139,159,133,146,131,135,133,129,137,127,143,131,151"/>
+</map>

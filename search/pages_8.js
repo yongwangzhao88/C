@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['the_20algorithms_20_2d_20c_776',['The Algorithms - C',['../index.html',1,'']]]
+  ['style_20convention_0',['Code style convention',['../dc/d64/md__coding_guidelines.html',1,'']]]
 ];

@@ -1,8 +1,6 @@
 var searchData=
 [
-  ['_5fbig_5fint_3',['_big_int',['../dc/d77/struct__big__int.html',1,'']]],
-  ['_5fcantor_5fset_4',['_cantor_set',['../d9/dd7/struct__cantor__set.html',1,'']]],
-  ['_5flarge_5fnum_5',['_large_num',['../d3/d5a/struct__large__num.html',1,'']]],
-  ['_5frandom_6',['_random',['../d1/d6b/group__kohonen__2d.html#gaf5ce14f026d6d231bef29161bac2b485',1,'_random(double a, double b):&#160;kohonen_som_topology.c'],['../d0/dcb/group__kohonen__1d.html#gaf5ce14f026d6d231bef29161bac2b485',1,'_random(double a, double b):&#160;kohonen_som_trace.c']]],
-  ['_5fuse_5fmath_5fdefines_7',['_USE_MATH_DEFINES',['../d7/d98/spirograph_8c.html#a525335710b53cb064ca56b936120431e',1,'_USE_MATH_DEFINES():&#160;spirograph.c'],['../d2/df6/kohonen__som__topology_8c.html#a525335710b53cb064ca56b936120431e',1,'_USE_MATH_DEFINES():&#160;kohonen_som_topology.c'],['../d0/d46/kohonen__som__trace_8c.html#a525335710b53cb064ca56b936120431e',1,'_USE_MATH_DEFINES():&#160;kohonen_som_trace.c'],['../d6/d2e/cartesian__to__polar_8c.html#a525335710b53cb064ca56b936120431e',1,'_USE_MATH_DEFINES():&#160;cartesian_to_polar.c']]]
+  ['2_20warning_0',['2. Warning',['../d3/dd7/md__c_o_d_e___o_f___c_o_n_d_u_c_t.html#autotoc_md8',1,'']]],
+  ['20algorithms_20binary_2020search_20md_20target_20_5fblank_20binary_20search_20a_1',['the array using the &lt;a href=&quot;https://github.com/TheAlgorithms/Algorithms-Explanation/blob/master/en/Search%20Algorithms/Binary%20Search.md&quot; target=&quot;_blank&quot; &gt;Binary Search&lt;/a&gt;',['../da/d6c/exponential__search_8c.html#autotoc_md84',1,'']]],
+  ['20search_20md_20target_20_5fblank_20binary_20search_20a_2',['the array using the &lt;a href=&quot;https://github.com/TheAlgorithms/Algorithms-Explanation/blob/master/en/Search%20Algorithms/Binary%20Search.md&quot; target=&quot;_blank&quot; &gt;Binary Search&lt;/a&gt;',['../da/d6c/exponential__search_8c.html#autotoc_md84',1,'']]]
 ];

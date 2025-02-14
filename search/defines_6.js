@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['port_748',['PORT',['../dd/d93/client_8c.html#a614217d263be1fb1a5f76e2ff7be19a2',1,'PORT():&#160;client.c'],['../d1/d20/server_8c.html#a614217d263be1fb1a5f76e2ff7be19a2',1,'PORT():&#160;server.c'],['../da/de6/udp__client_8c.html#a614217d263be1fb1a5f76e2ff7be19a2',1,'PORT():&#160;udp_client.c'],['../d8/dca/udp__server_8c.html#a614217d263be1fb1a5f76e2ff7be19a2',1,'PORT():&#160;udp_server.c']]]
+  ['len_0',['LEN',['../df/d27/alaw_8c.html#a05b49c662c073f89e86804f7856622a0',1,'alaw.c']]],
+  ['lims_1',['LIMS',['../d7/d50/qr__eigen__values_8c.html#aee57a411f07599034f5ceb8cc7d65b40',1,'qr_eigen_values.c']]]
 ];

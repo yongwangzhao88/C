@@ -1,5 +1,8 @@
 var searchData=
 [
-  ['y_717',['y',['../d5/db4/structvec__3d__.html#a76098d39a382838df3b4b48c3443413b',1,'vec_3d_::y()'],['../d1/d5e/structobservation.html#ab6be1fa7024b2d5f3a30d6c6b70efdd7',1,'observation::y()'],['../d1/d99/structcluster.html#a10fa7010c12d0f03a422d68321495479',1,'cluster::y()']]],
-  ['yaw_718',['yaw',['../d2/de8/structeuler__.html#aad52507cc423ec49847471f6f15dd9d7',1,'euler_']]]
+  ['w_0',['w',['../de/d58/structquaternion__.html#a835e2ba72517fbb29d0d4e3cb4c2914f',1,'quaternion_']]],
+  ['weights_1',['weights',['../d2/daa/structadaline.html#a32e58c03fd9258709eae6138ad0ec657',1,'adaline']]],
+  ['word_2',['word',['../db/d8b/struct_node.html#afa6ccc6414d3e0bcacb715dcdf764bca',1,'Node']]],
+  ['wrapperflag_3',['wrapperFlag',['../d3/dd7/struct_n_f_a.html#a46968ad64f39e9c62b8fb7970d494422',1,'NFA']]],
+  ['wt_4',['WT',['../d5/da1/structnode.html#a878d22393f374f3861035e35b9edd653',1,'node']]]
 ];
